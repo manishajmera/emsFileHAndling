@@ -1,0 +1,10 @@
+1:Kailash:kher:CEO:-1
+2:Sonu:nigam:HR:-1
+4:manage:manage:Manager:3
+5:surendar:mishra:Trainee:4
+6:hardik:ooo:Trainee:3
+7:pand:panda:Trainee:3
+8:khemu:khem:Trainee:3
+9:ko:ko:Trainee:1
+10:manish:jain:Trainee:1
+11:ldskf:1:Trainee:1
